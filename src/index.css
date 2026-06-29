@@ -1,0 +1,5 @@
+*,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
+:root{--p:#8B7FE8;--pd:#6B5FD0;--pl:#F0EFFE;--pt:#3D2FB8;--gn:#22C55E;--gl:#DCFCE7;--gt:#166534;--am:#F59E0B;--al:#FEF3C7;--at:#92400E;--rd:#EF4444;--rl:#FEE2E2;--rt:#991B1B;--bg:#F8F7F5;--sf:#fff;--br:rgba(0,0,0,.08);--brk:rgba(0,0,0,.14);--t1:#111;--t2:#555;--t3:#999;--r:12px;--rs:8px;--sh:0 1px 3px rgba(0,0,0,.06)}
+body{font-family:'Inter',-apple-system,sans-serif;background:var(--bg);color:var(--t1);line-height:1.5}
+button{cursor:pointer;font-family:inherit}
+::-webkit-scrollbar{width:4px}::-webkit-scrollbar-thumb{background:var(--brk);border-radius:4px}
